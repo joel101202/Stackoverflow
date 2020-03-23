@@ -7,4 +7,4 @@ La pagina de iniciar sesion es login.html
 <br><br>
 ( Los archivos de imagenes y estilos estan contenidos en la carpeta styles )
 <br>
-( Las carpetas Bootstrap {en sus diferentes versiones}, y materialize, son los dos frameworks que utilice en el proyecto "Stackoverflow".)
+( Las carpetas Bootstrap y materialize, son los dos frameworks que utilice en el proyecto "Stackoverflow".)
